@@ -1,6 +1,5 @@
 # dig4633-fall2019
 Template for course repository
 
-As you complete each lab, you should provide a description of your features and changes here.
-
-## VR Lab: TITLE HERE
+## VR Lab: 1
+In Lab 1 I intend to have players place chickens and cows in their respective pens.
